@@ -1,4 +1,5 @@
-<!-- visning/infosidesoknad.php -->
+<!-- visning/infosidesoknad.php  -->
+ <!-- endringer gjort for å publisere -->
 
 <!DOCTYPE html>
 <html lang="no">
