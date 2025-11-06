@@ -1,3 +1,5 @@
+<!-- visning/infosidesoknad.php -->
+
 <!DOCTYPE html>
 <html lang="no">
 <head>
